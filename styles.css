@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Caladea:ital,wght@0,400;0,700;1,400;1,700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caladea:ital,wght@0,400;0,700;1,400;1,700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+
+*{
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .mgn{
+    margin-bottom: 10px;
+  }
+  
+  .logo{
+    margin-left: 10px;
+    font-size: 35px;
+    font-family: "Caladea", serif;
+
+  }
+
+h1 {
+    color: blueviolet;
+    font-family: "Caladea", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  h3 {
+    color:#ffc400;
+    font-family: "Caladea", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .bor img{
+    border-radius: 5px;
+    align-items: center;
+  }
+  .foot{
+    height: 50px;
+    text-align: center;
+    color: white;
+  }
